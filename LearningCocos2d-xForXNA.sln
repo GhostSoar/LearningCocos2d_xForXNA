@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearningCocos2d-xForXNA", "LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA.csproj", "{096E74A8-6D40-45BC-AA90-4E4BB94C9644}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "LearningCocos2d-xForXNAContent", "LearningCocos2d-xForXNA\LearningCocos2d-xForXNAContent\LearningCocos2d-xForXNAContent.contentproj", "{3C12A396-9AFD-42D5-B761-3EB96FE2B349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FontProcessor", "FontProcessor\FontProcessor.csproj", "{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Windows Phone = Debug|Windows Phone
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Windows Phone = Release|Windows Phone
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Debug|Mixed Platforms.Build.0 = Debug|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Debug|Mixed Platforms.Deploy.0 = Debug|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Debug|Windows Phone.Build.0 = Debug|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Debug|Windows Phone.Deploy.0 = Debug|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Debug|x86.ActiveCfg = Debug|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Release|Mixed Platforms.Build.0 = Release|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Release|Mixed Platforms.Deploy.0 = Release|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Release|Windows Phone.Build.0 = Release|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Release|Windows Phone.Deploy.0 = Release|Windows Phone
+		{096E74A8-6D40-45BC-AA90-4E4BB94C9644}.Release|x86.ActiveCfg = Release|Windows Phone
+		{3C12A396-9AFD-42D5-B761-3EB96FE2B349}.Debug|Mixed Platforms.ActiveCfg = Debug|Windows Phone
+		{3C12A396-9AFD-42D5-B761-3EB96FE2B349}.Debug|Windows Phone.ActiveCfg = Debug|Windows Phone
+		{3C12A396-9AFD-42D5-B761-3EB96FE2B349}.Debug|x86.ActiveCfg = Debug|Windows Phone
+		{3C12A396-9AFD-42D5-B761-3EB96FE2B349}.Release|Mixed Platforms.ActiveCfg = Release|Windows Phone
+		{3C12A396-9AFD-42D5-B761-3EB96FE2B349}.Release|Windows Phone.ActiveCfg = Release|Windows Phone
+		{3C12A396-9AFD-42D5-B761-3EB96FE2B349}.Release|x86.ActiveCfg = Release|Windows Phone
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Debug|Windows Phone.ActiveCfg = Debug|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Debug|Windows Phone.Build.0 = Debug|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Debug|x86.ActiveCfg = Debug|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Debug|x86.Build.0 = Debug|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Release|Windows Phone.ActiveCfg = Release|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Release|Windows Phone.Build.0 = Release|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Release|x86.ActiveCfg = Release|x86
+		{0859E5CF-0DC7-4D80-89A2-D47F7B9376DD}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

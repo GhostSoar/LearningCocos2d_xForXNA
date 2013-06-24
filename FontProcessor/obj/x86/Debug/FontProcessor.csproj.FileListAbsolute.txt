@@ -1,0 +1,6 @@
+D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\FontProcessor\bin\x86\Debug\FontProcessor.dll
+D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\FontProcessor\bin\x86\Debug\FontProcessor.pdb
+D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\FontProcessor\obj\x86\Debug\FontProcessor.dll
+D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\FontProcessor\obj\x86\Debug\FontProcessor.pdb
+D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\FontProcessor\bin\x86\Debug\cocos2d.Framework.dll
+D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\FontProcessor\bin\x86\Debug\cocos2d.Framework.pdb

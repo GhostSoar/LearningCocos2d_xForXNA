@@ -1,0 +1,1 @@
+D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNAContent\obj\Windows Phone\Debug\LearningCocos2d-xForXNAContent.contentprojResolveAssemblyReference.cache

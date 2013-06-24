@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>HelloWorld.png</Source>
+      <Name>HelloWorld</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\HelloWorld.xnb</Output>
+      <Time>2013-01-23T08:00:59.0864885+08:00</Time>
+    </Item>
+    <Item>
+      <Source>CloseNormal.png</Source>
+      <Name>CloseNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\CloseNormal.xnb</Output>
+      <Time>2013-01-23T08:00:59.0764851+08:00</Time>
+    </Item>
+    <Item>
+      <Source>CloseSelected.png</Source>
+      <Name>CloseSelected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\CloseSelected.xnb</Output>
+      <Time>2013-01-23T08:00:59.0844844+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\OpenXLive.jpg</Source>
+      <Name>images\OpenXLive</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\images\OpenXLive.xnb</Output>
+      <Time>2013-01-23T08:00:59.0734829+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Achievements.png</Source>
+      <Name>images\Achievements</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\images\Achievements.xnb</Output>
+      <Time>2013-01-23T08:00:59.0604965+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Achievements1.png</Source>
+      <Name>images\Achievements1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\images\Achievements1.xnb</Output>
+      <Time>2013-01-23T08:00:59.0624822+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Leaderboards.png</Source>
+      <Name>images\Leaderboards</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\images\Leaderboards.xnb</Output>
+      <Time>2013-01-23T08:00:59.0644837+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Leaderboards1.png</Source>
+      <Name>images\Leaderboards1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\images\Leaderboards1.xnb</Output>
+      <Time>2013-01-23T08:00:59.0664859+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Lobby.png</Source>
+      <Name>images\Lobby</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\images\Lobby.xnb</Output>
+      <Time>2013-01-23T08:00:59.0684896+08:00</Time>
+    </Item>
+    <Item>
+      <Source>images\Lobby1.png</Source>
+      <Name>images\Lobby1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\images\Lobby1.xnb</Output>
+      <Time>2013-01-23T08:00:59.0704846+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\bg_Sea1Mini.png</Source>
+      <Name>img\bg_Sea1Mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\bg_Sea1Mini.xnb</Output>
+      <Time>2013-01-23T08:10:50.1952943+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\bg_Sea2Mini.jpg</Source>
+      <Name>img\bg_Sea2Mini</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\bg_Sea2Mini.xnb</Output>
+      <Time>2013-01-23T08:10:50.2132904+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\btn-about-normal.png</Source>
+      <Name>img\btn-about-normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\btn-about-normal.xnb</Output>
+      <Time>2013-01-23T08:10:50.2333281+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\btn-about-selected.png</Source>
+      <Name>img\btn-about-selected</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\btn-about-selected.xnb</Output>
+      <Time>2013-01-23T08:10:50.2382936+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\imgSGQ.png</Source>
+      <Name>img\imgSGQ</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\imgSGQ.xnb</Output>
+      <Time>2013-01-23T08:10:50.2623019+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\MenuSpritePlay.png</Source>
+      <Name>img\MenuSpritePlay</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\MenuSpritePlay.xnb</Output>
+      <Time>2013-01-23T08:10:50.2773044+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Menu\btn_Menu.png</Source>
+      <Name>img\Wolf\Menu\btn_Menu</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Menu\btn_Menu.xnb</Output>
+      <Time>2013-01-23T08:11:40.5956673+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Menu\img_background.png</Source>
+      <Name>img\Wolf\Menu\img_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Menu\img_background.xnb</Output>
+      <Time>2013-01-23T08:11:40.6006709+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Setting\img_background.png</Source>
+      <Name>img\Wolf\Setting\img_background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Setting\img_background.xnb</Output>
+      <Time>2013-01-23T14:22:32.5161894+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao1.png</Source>
+      <Name>img\Wolf\Sprite\aoao1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao1.xnb</Output>
+      <Time>2013-01-24T10:15:46.6820343+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao2.png</Source>
+      <Name>img\Wolf\Sprite\aoao2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao2.xnb</Output>
+      <Time>2013-01-24T10:15:46.6850361+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao3.png</Source>
+      <Name>img\Wolf\Sprite\aoao3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao3.xnb</Output>
+      <Time>2013-01-24T10:15:46.7420445+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao4.png</Source>
+      <Name>img\Wolf\Sprite\aoao4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao4.xnb</Output>
+      <Time>2013-01-24T10:15:46.7550455+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao5.png</Source>
+      <Name>img\Wolf\Sprite\aoao5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao5.xnb</Output>
+      <Time>2013-01-24T10:15:46.7700499+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao6.png</Source>
+      <Name>img\Wolf\Sprite\aoao6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao6.xnb</Output>
+      <Time>2013-01-24T10:15:46.7810483+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao7.png</Source>
+      <Name>img\Wolf\Sprite\aoao7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao7.xnb</Output>
+      <Time>2013-01-24T10:15:46.7960485+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao8.png</Source>
+      <Name>img\Wolf\Sprite\aoao8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao8.xnb</Output>
+      <Time>2013-01-24T10:15:46.8080507+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao9.png</Source>
+      <Name>img\Wolf\Sprite\aoao9</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao9.xnb</Output>
+      <Time>2013-01-24T10:15:46.8230543+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao10.png</Source>
+      <Name>img\Wolf\Sprite\aoao10</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao10.xnb</Output>
+      <Time>2013-01-24T10:15:46.8380548+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao11.png</Source>
+      <Name>img\Wolf\Sprite\aoao11</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao11.xnb</Output>
+      <Time>2013-01-24T10:15:46.8980612+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao12.png</Source>
+      <Name>img\Wolf\Sprite\aoao12</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao12.xnb</Output>
+      <Time>2013-01-24T10:15:46.9140648+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao13.png</Source>
+      <Name>img\Wolf\Sprite\aoao13</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao13.xnb</Output>
+      <Time>2013-01-24T10:15:46.9170647+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao14.png</Source>
+      <Name>img\Wolf\Sprite\aoao14</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao14.xnb</Output>
+      <Time>2013-01-24T10:15:46.9350693+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao15.png</Source>
+      <Name>img\Wolf\Sprite\aoao15</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao15.xnb</Output>
+      <Time>2013-01-24T10:15:46.9500698+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao16.png</Source>
+      <Name>img\Wolf\Sprite\aoao16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao16.xnb</Output>
+      <Time>2013-01-24T10:15:46.9590822+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao17.png</Source>
+      <Name>img\Wolf\Sprite\aoao17</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao17.xnb</Output>
+      <Time>2013-01-24T10:15:46.9680733+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao18.png</Source>
+      <Name>img\Wolf\Sprite\aoao18</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao18.xnb</Output>
+      <Time>2013-01-24T10:15:46.9740723+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao19.png</Source>
+      <Name>img\Wolf\Sprite\aoao19</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao19.xnb</Output>
+      <Time>2013-01-24T10:15:47.0480835+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao20.png</Source>
+      <Name>img\Wolf\Sprite\aoao20</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao20.xnb</Output>
+      <Time>2013-01-24T10:15:47.0910868+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao21.png</Source>
+      <Name>img\Wolf\Sprite\aoao21</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao21.xnb</Output>
+      <Time>2013-01-24T10:15:47.1010929+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao22.png</Source>
+      <Name>img\Wolf\Sprite\aoao22</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao22.xnb</Output>
+      <Time>2013-01-24T10:15:47.157096+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao23.png</Source>
+      <Name>img\Wolf\Sprite\aoao23</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao23.xnb</Output>
+      <Time>2013-01-24T10:15:47.1770998+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao24.png</Source>
+      <Name>img\Wolf\Sprite\aoao24</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao24.xnb</Output>
+      <Time>2013-01-24T10:15:47.2311133+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao25.png</Source>
+      <Name>img\Wolf\Sprite\aoao25</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao25.xnb</Output>
+      <Time>2013-01-24T10:15:47.2341086+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\dragon_animation.png</Source>
+      <Name>img\Wolf\Sprite\dragon_animation</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\dragon_animation.xnb</Output>
+      <Time>2013-01-24T15:21:11.8788811+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\aoao.png</Source>
+      <Name>img\Wolf\Sprite\aoao</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\aoao.xnb</Output>
+      <Time>2013-01-24T20:28:57.1689267+08:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\Arial.spritefont</Source>
+      <Name>fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\fonts\Arial.xnb</Output>
+      <Time>2013-01-23T08:00:59.0564805+08:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\Yahei.spritefont</Source>
+      <Name>fonts\Yahei</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>ContentProcessor1</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\fonts\Yahei.xnb</Output>
+      <Time>2013-01-23T08:10:08.3539964+08:00</Time>
+      <Dependency>
+        <Key>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\messages.txt</Key>
+        <Value>2013-02-01T23:32:08.3611299+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>fonts\Wolf\WolfGameSettingMenuTitle.spritefont</Source>
+      <Name>fonts\Wolf\WolfGameSettingMenuTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>ContentProcessor1</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\fonts\Wolf\WolfGameSettingMenuTitle.xnb</Output>
+      <Time>2013-01-23T14:49:55.5394698+08:00</Time>
+      <Dependency>
+        <Key>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\messages.txt</Key>
+        <Value>2013-02-01T23:32:08.3611299+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Sprite\grossini..ztp</Source>
+      <Name>img\Wolf\Sprite\grossini.</Name>
+      <Importer>TextImporter</Importer>
+      <Processor>TextProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Sprite\grossini..xnb</Output>
+      <Time>2013-01-24T22:08:18.2912332+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\images\aoao.png</Source>
+      <Name>plist\images\aoao</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\plist\images\aoao.xnb</Output>
+      <Time>2013-01-26T16:02:34.8430259+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\aoao.plist</Source>
+      <Name>plist\aoao</Name>
+      <Importer>TextImporter</Importer>
+      <Processor>TextProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\plist\aoao.xnb</Output>
+      <Time>2013-01-26T16:03:55.7723676+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\images\wolf_move.png</Source>
+      <Name>plist\images\wolf_move</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\plist\images\wolf_move.xnb</Output>
+      <Time>2013-01-28T15:32:37.2460386+08:00</Time>
+    </Item>
+    <Item>
+      <Source>plist\wolf_move.plist</Source>
+      <Name>plist\wolf_move</Name>
+      <Importer>TextImporter</Importer>
+      <Processor>TextProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\plist\wolf_move.xnb</Output>
+      <Time>2013-01-28T15:33:11.293576+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Others\bomb.png</Source>
+      <Name>img\Wolf\Others\bomb</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Others\bomb.xnb</Output>
+      <Time>2013-01-30T23:01:46.4554448+08:00</Time>
+    </Item>
+    <Item>
+      <Source>img\Wolf\Others\gold.png</Source>
+      <Name>img\Wolf\Others\gold</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\img\Wolf\Others\gold.xnb</Output>
+      <Time>2013-01-30T23:01:46.4711401+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3C12A396-9AFD-42D5-B761-3EB96FE2B349}</ContentProjectGUID>
+      <TargetPlatform>WindowsPhone</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNAContent\</RootDirectory>
+      <LoggerRootDirectory>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\obj\Windows Phone\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA\bin\Windows Phone\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2012-09-06T14:52:54+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>D:\cnblogs实例\LearningCocos2d-xForXNA\LearningCocos2d-xForXNA(0.1.2)\LearningCocos2d-xForXNA\FontProcessor\bin\x86\Debug\FontProcessor.dll</Key>
+        <Value>2013-01-24T22:02:10.7689677+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-11-01T21:45:16.3983304+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

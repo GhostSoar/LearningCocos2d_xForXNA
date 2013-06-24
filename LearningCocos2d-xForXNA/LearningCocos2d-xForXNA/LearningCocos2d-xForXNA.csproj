@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectGuid>{096E74A8-6D40-45BC-AA90-4E4BB94C9644}</ProjectGuid>
+    <ProjectTypeGuids>{6D335F3A-9D43-41b4-9D22-F6F17C4BE596};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">Windows Phone</Platform>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LearningCocos2d_xForXNA</RootNamespace>
+    <AssemblyName>LearningCocos2d-xForXNA</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <XnaFrameworkVersion>v4.0</XnaFrameworkVersion>
+    <XnaPlatform>Windows Phone</XnaPlatform>
+    <XnaProfile>Reach</XnaProfile>
+    <XnaCrossPlatformGroupID>e3fc2c62-dce5-495a-a10f-eb19c368f8ff</XnaCrossPlatformGroupID>
+    <XnaOutputType>Game</XnaOutputType>
+    <XnaRefreshLevel>1</XnaRefreshLevel>
+    <WPTombstoneEnabled>false</WPTombstoneEnabled>
+    <XapFilename>LearningCocos2d_xForXNA.xap</XapFilename>
+    <SilverlightManifestTemplate>Properties\AppManifest.xml</SilverlightManifestTemplate>
+    <XnaWindowsPhoneManifestTemplate>Properties\WMAppManifest.xml</XnaWindowsPhoneManifestTemplate>
+    <TileImage>Background.png</TileImage>
+    <TileTitle>HelloCocos2d</TileTitle>
+    <SupportedCultures>
+    </SupportedCultures>
+    <ApplicationIcon>Game.ico</ApplicationIcon>
+    <Thumbnail>PhoneGameThumb.png</Thumbnail>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|Windows Phone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Windows Phone\Debug</OutputPath>
+    <DefineConstants>DEBUG;TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|Windows Phone' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Windows Phone\Release</OutputPath>
+    <DefineConstants>TRACE;WINDOWS_PHONE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoStdLib>true</NoStdLib>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <XnaCompressContent>false</XnaCompressContent>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="cocos2d-xna">
+      <HintPath>..\..\..\..\..\..\学习资料\cocos2d-x\cocos2d-x-for-xna-0.1.2\cocos2d-cocos2d-x-for-xna-5341c4a\cocos2d-xna\bin\Windows Phone\Debug\cocos2d-xna.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Xna.Framework" />
+    <Reference Include="Microsoft.Xna.Framework.Game" />
+    <Reference Include="Microsoft.Xna.Framework.Graphics" />
+    <Reference Include="Microsoft.Xna.Framework.GamerServices" />
+    <Reference Include="Microsoft.Xna.Framework.Input.Touch" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Net" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AnimateLayer.cs" />
+    <Compile Include="Classes\AnimateScene.cs" />
+    <Compile Include="Classes\AppDelegate.cs" />
+    <Compile Include="Classes\Bomb.cs" />
+    <Compile Include="Classes\GameLayer.cs" />
+    <Compile Include="Classes\GameScene.cs" />
+    <Compile Include="Classes\Gold.cs" />
+    <Compile Include="Classes\HelloWorldScene.cs" />
+    <Compile Include="Classes\MenuItemImageLayer.cs" />
+    <Compile Include="Classes\MenuItemImageScene.cs" />
+    <Compile Include="Classes\MenuItemLabelLayer.cs" />
+    <Compile Include="Classes\MenuItemLabelScene.cs" />
+    <Compile Include="Classes\MenuItemSpriteLayer.cs" />
+    <Compile Include="Classes\MenuItemSpriteScene.cs" />
+    <Compile Include="Classes\MenuItemToggleLayer.cs" />
+    <Compile Include="Classes\MenuItemToggleScene.cs" />
+    <Compile Include="Classes\MoveLayer.cs" />
+    <Compile Include="Classes\MoveScene.cs" />
+    <Compile Include="Classes\SpriteDefinedTouchLayer.cs" />
+    <Compile Include="Classes\SpriteDefinedTouchScene.cs" />
+    <Compile Include="Classes\StartPageLayer.cs" />
+    <Compile Include="Classes\StartPageScene.cs" />
+    <Compile Include="Classes\TouchableSprite.cs" />
+    <Compile Include="Classes\Wolf.cs" />
+    <Compile Include="Classes\WolfGameSettingLayer.cs" />
+    <Compile Include="Classes\WolfGameSettingScene.cs" />
+    <Compile Include="Classes\WolfMenuLayer.cs" />
+    <Compile Include="Classes\WolfMenuScene.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="Properties\AppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <None Include="Properties\WMAppManifest.xml">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </None>
+    <Compile Include="Program.cs" />
+    <Compile Include="Game1.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Game.ico" />
+    <Content Include="messages.txt" />
+    <Content Include="PhoneGameThumb.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+    <Content Include="Background.png">
+      <XnaPlatformSpecific>true</XnaPlatformSpecific>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LearningCocos2d-xForXNAContent\LearningCocos2d-xForXNAContent.contentproj">
+      <Name>LearningCocos2d-xForXNAContent</Name>
+      <XnaReferenceType>Content</XnaReferenceType>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\XNA Game Studio\Microsoft.Xna.GameStudio.targets" />
+  <!--
+      To modify your build process, add your task inside one of the targets below and uncomment it. 
+      Other similar extension points exist, see Microsoft.Common.targets.
+      <Target Name="BeforeBuild">
+      </Target>
+      <Target Name="AfterBuild">
+      </Target>
+    -->
+</Project>
